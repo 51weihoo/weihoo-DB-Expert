@@ -1,4 +1,5 @@
 [TOC]
+
 #  ***关于Weihoo DB Expert***
 
 - 高效运维数据库需要什么？
@@ -36,7 +37,7 @@ Weihoo DB Expert可通过数据库中缓冲池、磁盘、排序等各个模块�
 
 ## 产品部署
 #### 1.部署手册
-[点击查看部署手册](http://localhost/ "位置待补充")
+[点击查看部署手册](https://github.com/51weihoo/weihoo-DB-Expert/blob/master/%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8Cv0.3.md)
 #### 2.体系结构介绍
 ![体系结构.PNG](https://i.loli.net/2018/06/06/5b17904d3f953.png)
 在部署完成后，即可使用Weihoo DB Expert的数据库监控、巡检及SQL审核功能了。添加受控端的资源后（信息包括IP、登陆方式、数据库实例名称、端口、用户名、密码等），进入各功能模块后，关联已添加资源即可，需保证受控端主机与server端网络互通。
@@ -45,7 +46,7 @@ Weihoo DB Expert可通过数据库中缓冲池、磁盘、排序等各个模块�
 
 ## 产品使用说明
 #### 文档链接
-[点击查看Weihoo DB Expert使用说明](http://localhost/ "位置待补充")
+[点击查看Weihoo DB Expert使用说明](https://github.com/51weihoo/weihoo-DB-Expert/blob/master/Weihoo%20DB%20Expert%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6v1.0.pdf)
 
 ## 联系方式
 邮箱：<weihoo_db_expert@51weihoo.com>
