@@ -46,7 +46,7 @@ Weihoo DB Expert可通过数据库中缓冲池、磁盘、排序等各个模块�
 
 ## 产品使用说明
 #### 文档链接
-[点击查看Weihoo DB Expert使用说明](https://github.com/51weihoo/weihoo-DB-Expert/blob/master/Weihoo%20DB%20Expert%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6v1.0.pdf)
+[点击查看Weihoo DB Expert使用说明](https://github.com/51weihoo/weihoo-DB-Expert/blob/master/Operating%20instructions.md)
 
 ## 联系方式
 邮箱：<weihoo_db_expert@51weihoo.com>
