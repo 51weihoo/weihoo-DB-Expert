@@ -1,5 +1,3 @@
-[TOC]
-
 #  ***关于Weihoo DB Expert***
 
 - 高效运维数据库需要什么？
